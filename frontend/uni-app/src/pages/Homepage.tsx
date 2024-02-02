@@ -1,11 +1,29 @@
-import { ModulCard } from "../components/ModulCard"
+
+import { CourseCardList } from "../components/CourseCardList"
+import { LogoutButton } from "../components/Logoutbutton"
 
 
 
 export const Homepage = () => {
+    
+    
     return(
         <div>
-            Hallo
+            <LogoutButton/>
+            <div
+            style={{
+                display: "flex",
+                justifyContent: 'center',
+                alignItems: 'center',
+                minHeight: '100vh',
+            }}
+        >
+            
+            <CourseCardList/>
+            
+           
         </div>
+        </div>
+        
     ) 
 }

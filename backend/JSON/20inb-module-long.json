@@ -23,7 +23,8 @@
     "Zuordnung zum Curriculum": [
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6336"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6336",
+    "Lane": "4"
   },
   {
     "Modulnummer": "C010",
@@ -52,7 +53,8 @@
       "19INB.1 – Informatik | Bachelor 2019",
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6264"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6264",
+    "Lane": "5"
   },
   {
     "Modulnummer": "C064",
@@ -78,7 +80,8 @@
     "Zuordnung zum Curriculum": [
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6243"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6243",
+    "Lane": "5"
   },
   {
     "Modulnummer": "C073",
@@ -106,7 +109,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6246"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6246",
+    "Lane": "4"
   },
   {
     "Modulnummer": "C114",
@@ -135,7 +139,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6218"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6218",
+    "Lane": "1"
   },
   {
     "Modulnummer": "C121",
@@ -164,7 +169,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6272"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6272",
+    "Lane": "4"
   },
   {
     "Modulnummer": "C160",
@@ -191,7 +197,8 @@
       "19INB.1 – Informatik | Bachelor 2019",
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6783"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6783",
+    "Lane": "5"
   },
   {
     "Modulnummer": "C171",
@@ -219,7 +226,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6247"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6247",
+    "Lane": "5"
   },
   {
     "Modulnummer": "C182",
@@ -246,7 +254,8 @@
       "20INB.2 – Informatik | Bachelor 2020",
       "20MIB.2 – Medieninformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6339"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6339",
+    "Lane": "5"
   },
   {
     "Modulnummer": "C222",
@@ -274,7 +283,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6227"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6227",
+    "Lane": "6"
   },
   {
     "Modulnummer": "C227",
@@ -312,7 +322,8 @@
     "Zuordnung zum Curriculum": [
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6312"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6312",
+    "Lane": "5"
   },
   {
     "Modulnummer": "C241",
@@ -342,7 +353,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6236"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6236",
+    "Lane": "6"
   },
   {
     "Modulnummer": "C247",
@@ -370,7 +382,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6364"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6364",
+    "Lane": "5"
   },
   {
     "Modulnummer": "C249",
@@ -398,7 +411,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6782"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6782",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C259",
@@ -424,7 +438,8 @@
     "Zuordnung zum Curriculum": [
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6781"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6781",
+    "Lane": "5"
   },
   {
     "Modulnummer": "C287",
@@ -452,7 +467,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6237"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6237",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C300",
@@ -481,7 +497,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6219"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6219",
+    "Lane": "2"
   },
   {
     "Modulnummer": "C383",
@@ -507,7 +524,8 @@
     "Zuordnung zum Curriculum": [
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6366"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6366",
+    "Lane": "4"
   },
   {
     "Modulnummer": "C393",
@@ -535,7 +553,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6229"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6229",
+    "Lane": "4"
   },
   {
     "Modulnummer": "C405",
@@ -564,7 +583,8 @@
     "Zuordnung zum Curriculum": [
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6257"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6257",
+    "Lane": "2"
   },
   {
     "Modulnummer": "C448",
@@ -590,7 +610,8 @@
     "Zuordnung zum Curriculum": [
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6356"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6356",
+    "Lane": "4"
   },
   {
     "Modulnummer": "C493",
@@ -621,7 +642,8 @@
       "19INB.1 – Informatik | Bachelor 2019",
       "19MIB.1 – Medieninformatik | Bachelor 2019"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6332"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6332",
+    "Lane": "5"
   },
   {
     "Modulnummer": "C559",
@@ -650,7 +672,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6230"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6230",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C585",
@@ -678,7 +701,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6361"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6361",
+    "Lane": "4"
   },
   {
     "Modulnummer": "C622",
@@ -704,7 +728,8 @@
     "Zuordnung zum Curriculum": [
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6252"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6252",
+    "Lane": "5"
   },
   {
     "Modulnummer": "C651",
@@ -732,7 +757,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6276"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6276",
+    "Lane": "5"
   },
   {
     "Modulnummer": "C652",
@@ -760,7 +786,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6345"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6345",
+    "Lane": "5"
   },
   {
     "Modulnummer": "C680",
@@ -788,7 +815,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6232"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6232",
+    "Lane": "2"
   },
   {
     "Modulnummer": "C719",
@@ -816,7 +844,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6233"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6233",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C720",
@@ -844,7 +873,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6277"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6277",
+    "Lane": "4"
   },
   {
     "Modulnummer": "C741",
@@ -872,7 +902,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6270"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6270",
+    "Lane": "4"
   },
   {
     "Modulnummer": "C752",
@@ -899,7 +930,8 @@
     "Zuordnung zum Curriculum": [
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6254"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6254",
+    "Lane": "1"
   },
   {
     "Modulnummer": "C763",
@@ -926,7 +958,8 @@
       "20INB.2 – Informatik | Bachelor 2020",
       "20MIB.2 – Medieninformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6358"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6358",
+    "Lane": "5"
   },
   {
     "Modulnummer": "C799",
@@ -954,7 +987,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6234"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6234",
+    "Lane": "5"
   },
   {
     "Modulnummer": "C827",
@@ -980,7 +1014,8 @@
     "Zuordnung zum Curriculum": [
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6260"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6260",
+    "Lane": "4"
   },
   {
     "Modulnummer": "C902",
@@ -1011,7 +1046,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6706"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6706",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C947",
@@ -1038,7 +1074,8 @@
     "Zuordnung zum Curriculum": [
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6256"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6256",
+    "Lane": "2"
   },
   {
     "Modulnummer": "C960",
@@ -1065,7 +1102,8 @@
       "20INB.2 – Informatik | Bachelor 2020",
       "20MIB.2 – Medieninformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6359"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6359",
+    "Lane": "4"
   },
   {
     "Modulnummer": "C963",
@@ -1092,7 +1130,8 @@
       "20INB.2 – Informatik | Bachelor 2020",
       "20MIB.2 – Medieninformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6231"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6231",
+    "Lane": "1"
   },
   {
     "Modulnummer": "C993",
@@ -1120,7 +1159,8 @@
       "20INB.2 – Informatik | Bachelor 2020",
       "20MIB.2 – Medieninformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6235"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6235",
+    "Lane": "4"
   },
   {
     "Modulnummer": "F742",
@@ -1157,7 +1197,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6621"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6621",
+    "Lane": "2"
   },
   {
     "Modulnummer": "N055",
@@ -1183,7 +1224,8 @@
     "Zuordnung zum Curriculum": [
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6251"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6251",
+    "Lane": "2"
   },
   {
     "Modulnummer": "N417",
@@ -1209,7 +1251,8 @@
     "Zuordnung zum Curriculum": [
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6258"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6258",
+    "Lane": "3"
   },
   {
     "Modulnummer": "N450",
@@ -1235,7 +1278,8 @@
     "Zuordnung zum Curriculum": [
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6301"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6301",
+    "Lane": "4"
   },
   {
     "Modulnummer": "N468",
@@ -1262,7 +1306,8 @@
       "20INB.2 – Informatik | Bachelor 2020",
       "20MIB.2 – Medieninformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6327"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6327",
+    "Lane": "4"
   },
   {
     "Modulnummer": "N662",
@@ -1290,7 +1335,8 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6250"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6250",
+    "Lane": "1"
   },
   {
     "Modulnummer": "N840",
@@ -1316,7 +1362,8 @@
     "Zuordnung zum Curriculum": [
       "20INB.2 – Informatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6308"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6308",
+    "Lane": "5"
   },
   {
     "Modulnummer": "U622",
@@ -1355,7 +1402,8 @@
       "22EIB.2 – Elektrotechnik und Informationstechnik | Bachelor 2022",
       "23SAB.1 – Soziale Arbeit | Bachelor 2023"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6708"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6708",
+    "Lane": "2"
   },
   {
     "Modulnummer": "W233",
@@ -1384,6 +1432,7 @@
       "20MIB.2 – Medieninformatik | Bachelor 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6249"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6249",
+    "Lane": "5"
   }
 ]

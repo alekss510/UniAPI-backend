@@ -60,7 +60,7 @@ class JsonHandler:
                 return "Modification successful!"
    
 
-    def addCourse(course, modulnummer, modul, fakultaet, ects, doz, mchef, pruf, prufvor, sprache, semester, zzc, link):
+    def addCourse(course, modulnummer, modul, fakultaet, ects, doz, mchef, pruf, prufvor, sprache, semester, zzc, link, lane):
         
         data = JsonHandler.getCourse(course)
 
@@ -86,7 +86,8 @@ class JsonHandler:
                     "Sprache(n)": sprache,
                     "Semester": semester,
                     "Zuordnung zum Curriculum": zzc,
-                    "Modulux-Link": link
+                    "Modulux-Link": link,
+                    "Lane": lane
                 }
             )
 
@@ -106,6 +107,5 @@ class JsonHandler:
 
     
         JsonHandler.writeJson(course, data)
-
             
-print(JsonHandler.getKeys('20inb', 'C004'))
+

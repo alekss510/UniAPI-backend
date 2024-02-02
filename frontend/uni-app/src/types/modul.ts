@@ -9,7 +9,8 @@ export type ModulProps = {
     sprache?: string[],
     semester?: string,
     zzc?: string[],
-    modullink?: string
+    modullink?: string,
+    lane?: string
 }
 
 

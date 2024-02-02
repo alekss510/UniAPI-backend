@@ -1,36 +1,83 @@
 import { Lane } from "../components/Lane"
-import { ModulCard } from "../components/ModulCard"
+import { DndProvider, useDrop } from "react-dnd"
+import { HTML5Backend } from "react-dnd-html5-backend"
+import { CreateModulButton } from "../components/CreateModulButton"
+import { useLocation } from "react-router-dom"
+import { Homebutton } from "../components/Homebutton"
+
+
+
+
 
 
 export const Coursepage = () => {
-    return(
-        <div style={{display: 'flex', flexDirection: 'row', justifyContent: 'space-around'}}>
-            <Lane semester={"Ablage"}>
-                <ModulCard modulnummer={"1"} modul={""} />
-                <ModulCard modulnummer={"2"} modul={""} />
-            </Lane>
-            <Lane semester={"1"}>
-                <ModulCard modulnummer={"3"} modul={""}/>
-                <ModulCard modulnummer={"4"} modul={""}/>
-            </Lane>
-            <Lane semester={"2"}>
-                <ModulCard modulnummer={"5"} modul={""}/>
-                <ModulCard modulnummer={"6"} modul={""}/>
-            </Lane>
-            <Lane semester ={"3"}>
-                <ModulCard modulnummer={"7"} modul={""}/>
-                <ModulCard modulnummer={"8"} modul={""}/>
-            </Lane>
-            <Lane semester= {"4"}>
-                <ModulCard modulnummer={"9"} modul={""}/>
-                <ModulCard modulnummer={"10"} modul={""}/>
-            </Lane>
-            <Lane semester= {"5"}>
-                <ModulCard modulnummer={"11"} modul={""}/>
-                <ModulCard modulnummer={"12"} modul={""}/>
-            </Lane>
+    const location = useLocation()
+
+    const currentPath = location.pathname.substring(1)
+
+    const headingStyle: React.CSSProperties = {
+      fontSize: '24px',
+      fontWeight: 'bold',
+      color: '#333', 
+    };
+
+    if (currentPath === "20inb" || currentPath === "20mib"){
+      return(
+        <div>
+          <div>
+            <h1 style={headingStyle}>
+              Kurs: {currentPath}  
+            </h1>
+            <div>
+              <Homebutton/>  
+            </div>     
+          </div>
+          <div>
+            <DndProvider backend={HTML5Backend}>
+              <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-around' }}>
+              <Lane semester={"1"} />
+              <Lane semester={"2"} />
+              <Lane semester={"3"} />
+              <Lane semester={"4"} />
+              <Lane semester={"5"} />
+              <Lane semester={"6"} />
+              <CreateModulButton/>
+              </div>
+            </DndProvider>
+          </div>
         </div>
         
-       
-    ) 
+      )
+    }
+    else{
+      return(
+        <div>
+          <div>
+            <h1 style={headingStyle}>
+              Kurs: {currentPath}  
+            </h1>
+            <div>
+              <Homebutton/>  
+            </div>     
+          </div>
+          <div>
+            <DndProvider backend={HTML5Backend}>
+              <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-around' }}>
+              <Lane semester={"1"} />
+              <Lane semester={"2"} />
+              <Lane semester={"3"} />
+              <Lane semester={"4"} />
+              <CreateModulButton/>
+              </div>
+            </DndProvider>
+          </div>
+        </div>
+        
+      )
+    }
+
+   
 }
+
+
+

@@ -28,7 +28,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6245"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6245",
+    "Lane": "2"
   },
   {
     "Modulnummer": "C112",
@@ -60,7 +61,8 @@
       "20MIM.2 – Medieninformatik | Master 2020",
       "20MMM.1 – Medienmanagement | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6292"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6292",
+    "Lane": "2"
   },
   {
     "Modulnummer": "C133",
@@ -106,7 +108,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6289"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6289",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C149",
@@ -145,7 +148,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6290"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6290",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C166",
@@ -170,7 +174,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6342"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6342",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C169",
@@ -194,7 +199,8 @@
     "Zuordnung zum Curriculum": [
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6297"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6297",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C179",
@@ -225,7 +231,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6324"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6324",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C190",
@@ -250,7 +257,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6244"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6244",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C195",
@@ -274,7 +282,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6300"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6300",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C201",
@@ -305,7 +314,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6325"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6325",
+    "Lane": "2"
   },
   {
     "Modulnummer": "C237",
@@ -329,7 +339,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6294"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6294",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C251",
@@ -360,7 +371,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6286"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6286",
+    "Lane": "1"
   },
   {
     "Modulnummer": "C268",
@@ -384,7 +396,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6293"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6293",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C277",
@@ -405,7 +418,8 @@
     "Sprache(n)": ["Deutsch"],
     "Semester": "Sommersemester",
     "Zuordnung zum Curriculum": ["20MIM.2 – Medieninformatik | Master 2020"],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6348"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6348",
+    "Lane": "2"
   },
   {
     "Modulnummer": "C312",
@@ -433,7 +447,8 @@
     "Sprache(n)": ["Englisch", "Deutsch"],
     "Semester": "Wintersemester",
     "Zuordnung zum Curriculum": ["20MIM.2 – Medieninformatik | Master 2020"],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6333"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6333",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C367",
@@ -454,7 +469,8 @@
     "Sprache(n)": ["Deutsch"],
     "Semester": "Sommersemester",
     "Zuordnung zum Curriculum": ["20MIM.2 – Medieninformatik | Master 2020"],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6303"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6303",
+    "Lane": "2"
   },
   {
     "Modulnummer": "C377",
@@ -478,7 +494,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6284"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6284",
+    "Lane": "1"
   },
   {
     "Modulnummer": "C398 [C122]",
@@ -502,7 +519,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6341"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6341",
+    "Lane": "2"
   },
   {
     "Modulnummer": "C411",
@@ -523,7 +541,8 @@
     "Sprache(n)": ["Deutsch"],
     "Semester": "Sommersemester alle zwei Jahre",
     "Zuordnung zum Curriculum": ["20MIM.2 – Medieninformatik | Master 2020"],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6304"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6304",
+    "Lane": "2"
   },
   {
     "Modulnummer": "C446 [C455]",
@@ -551,7 +570,8 @@
     "Sprache(n)": ["Englisch", "Deutsch"],
     "Semester": "Sommersemester",
     "Zuordnung zum Curriculum": ["20MIM.2 – Medieninformatik | Master 2020"],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6334"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6334",
+    "Lane": "2"
   },
   {
     "Modulnummer": "C478",
@@ -573,7 +593,8 @@
     "Sprache(n)": ["Deutsch"],
     "Semester": "Wintersemester",
     "Zuordnung zum Curriculum": ["20MIM.2 – Medieninformatik | Master 2020"],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6310"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6310",
+    "Lane": "1"
   },
   {
     "Modulnummer": "C533",
@@ -618,7 +639,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6291"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6291",
+    "Lane": "4"
   },
   {
     "Modulnummer": "C593",
@@ -644,7 +666,8 @@
       "20MIM.2 – Medieninformatik | Master 2020",
       "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6302"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6302",
+    "Lane": "4"
   },
   {
     "Modulnummer": "C624",
@@ -667,7 +690,8 @@
     "Zuordnung zum Curriculum": [
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6317"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6317",
+    "Lane": "3"
   },
   {
     "Modulnummer": "C762",
@@ -698,7 +722,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6288"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6288",
+    "Lane": "1"
   },
   {
     "Modulnummer": "C777",
@@ -726,7 +751,8 @@
     "Sprache(n)": ["Deutsch"],
     "Semester": "Sommersemester",
     "Zuordnung zum Curriculum": ["20MIM.2 – Medieninformatik | Master 2020"],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6349"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6349",
+    "Lane": "2"
   },
   {
     "Modulnummer": "C803 [zuvor: C244]",
@@ -747,7 +773,8 @@
     "Prüfungsvorleistung(en)": ["Beleg", "Referat"],
     "Sprache(n)": ["Deutsch"],
     "Zuordnung zum Curriculum": ["20INM.2 – Informatik | Master 2020", "20MIM.2 – Medieninformatik | Master 2020"],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6299"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6299",
+    "Lane": "2"
   },
   {
     "Modulnummer": "C933",
@@ -769,7 +796,8 @@
     "Sprache(n)": ["Deutsch"],
     "Semester": "Wintersemester",
     "Zuordnung zum Curriculum": ["20MIM.2 – Medieninformatik | Master 2020"],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6340"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6340",
+    "Lane": "1"
   },
   {
     "Modulnummer": "C971 [C366]",
@@ -791,7 +819,8 @@
     "Sprache(n)": ["Deutsch"],
     "Semester": "Wintersemester",
     "Zuordnung zum Curriculum": ["20MIM.2 – Medieninformatik | Master 2020"],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6362"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6362",
+    "Lane": "1"
   },
   {
     "Modulnummer": "N213",
@@ -815,7 +844,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6326"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6326",
+    "Lane": "3"
   },
   {
     "Modulnummer": "N298",
@@ -839,7 +869,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6313"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6313",
+    "Lane": "2"
   },
   {
     "Modulnummer": "N604",
@@ -863,7 +894,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6330"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6330",
+    "Lane": "3"
   },
   {
     "Modulnummer": "N965",
@@ -887,7 +919,8 @@
       "20INM.2 – Informatik | Master 2020",
       "20MIM.2 – Medieninformatik | Master 2020"
     ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6328"
+    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6328",
+    "Lane": "3"
   }
 ]
 
