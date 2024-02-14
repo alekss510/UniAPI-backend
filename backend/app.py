@@ -58,11 +58,11 @@ def test():
     return JsonHandler.getCourses()
 
 
-@app.route('/<string:course>', methods=['GET', "PUT", "POST"])
+@app.route('/<string:course>', methods=['GET', "POST"])
 def course(course): 
     course = request.path[1:6]
     modulnummer = request.args.get('modulnummer')
-    
+ 
     if request.method == "POST":
         
         modulnummer = request.args.get('modulnummer')
@@ -86,7 +86,7 @@ def course(course):
         
     return course_object
     
-@app.route('/<string:course>/<string:modulnummer>', methods=['GET', 'DELETE', 'PUT'])
+@app.route('/<string:course>/<string:modulnummer>', methods=['DELETE', 'PUT'])
 def modul(course, modulnummer):
     course = request.path[1:6]
     
@@ -96,10 +96,9 @@ def modul(course, modulnummer):
 
     if request.method == "PUT":
 
-        key_value = request.args.get('keyValue')
         new_value = request.args.get('newValue')
         
-        JsonHandler.modifyModul(course, modulnummer, key_value, new_value)
+        JsonHandler.modifyModul(course, modulnummer, new_value)
 
     modul_object = JsonHandler.getModul(course, modulnummer)
     modul_object = json.dumps(modul_object, ensure_ascii= False)

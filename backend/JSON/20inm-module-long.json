@@ -29,36 +29,6 @@
     "Lane": "2"
   },
   {
-    "Modulnummer": "C112",
-    "Modul": "Data Warehousing",
-    "Fakultät": "FIM-INF: Informatikstudiengänge - Fakultät Informatik und Medien",
-    "ECTS-Leistungspunkte": 5,
-    "Dozierende": [
-      "Prof. Dr.-Ing. Thomas Kudraß"
-    ],
-    "Modulverantwortliche": [
-      "Prof. Dr.-Ing. Thomas Kudraß"
-    ],
-    "Prüfungsleistung(en)": [
-      "Prüfung Klausurarbeit (50%)",
-      "Prüfung Projektarbeit (50%)"
-    ],
-    "Prüfungsvorleistung(en)": [
-      "Prüfungsvorleistung Beleg"
-    ],
-    "Sprache(n)": [
-      "Deutsch"
-    ],
-    "Semester": "Sommersemester",
-    "Zuordnung zum Curriculum": [
-      "20INM.2 – Informatik | Master 2020",
-      "20MIM.2 – Medieninformatik | Master 2020",
-      "20MMM.1 – Medienmanagement | Master 2020"
-    ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6292",
-    "Lane": "3"
-  },
-  {
     "Modulnummer": "C133",
     "Modul": "Advanced Seminars",
     "Fakultät": "FIM-INF: Informatikstudiengänge - Fakultät Informatik und Medien",

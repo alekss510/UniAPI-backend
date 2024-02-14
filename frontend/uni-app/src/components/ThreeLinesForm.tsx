@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { useLocation } from 'react-router';
+import { useBackendData } from '../data/backend';
 
 
 interface ThreeLinesFormProps {
@@ -13,21 +14,16 @@ const ThreeLinesForm: React.FC<ThreeLinesFormProps> = ({ onClose }) => {
   const location = useLocation()
   const currentPath = location.pathname
 
+  const { newModul} = useBackendData();
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    
-    await fetch(`http://localhost:5000/${currentPath}?modulnummer=${line1}&modul=${line2}&lane=${line3}`, {
-      method: 'POST',
-      
-    });
-    
-    window.location.reload()
+    newModul(currentPath, line1, line2, line3)
 
     onClose();
   };
 
   const handleCancel = () => {
-    // Schließe das Formular beim Abbrechen
     onClose();
   };
 

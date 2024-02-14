@@ -1,9 +1,10 @@
 import { Lane } from "../components/Lane"
-import { DndProvider, useDrop } from "react-dnd"
+import { DndProvider, useDrop} from "react-dnd"
 import { HTML5Backend } from "react-dnd-html5-backend"
 import { CreateModulButton } from "../components/CreateModulButton"
 import { useLocation } from "react-router-dom"
 import { Homebutton } from "../components/Homebutton"
+import { ModulProps } from "../types/modul"
 
 
 
@@ -21,6 +22,7 @@ export const Coursepage = () => {
       color: '#333', 
     };
 
+ 
     if (currentPath === "20inb" || currentPath === "20mib"){
       return(
         <div>
@@ -34,7 +36,7 @@ export const Coursepage = () => {
           </div>
           <div>
             <DndProvider backend={HTML5Backend}>
-              <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-around' }}>
+              <div  style={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-around' }}>
               <Lane semester={"1"} />
               <Lane semester={"2"} />
               <Lane semester={"3"} />
@@ -78,6 +80,5 @@ export const Coursepage = () => {
 
    
 }
-
 
 

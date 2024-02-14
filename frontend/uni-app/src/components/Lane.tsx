@@ -3,64 +3,48 @@ import { LaneProps } from "../types/LaneProps"
 import { useDrop } from "react-dnd"
 import { ModulCard } from "./ModulCard"
 import { useLocation } from "react-router-dom"
-
-
-
+import { useBackendData } from "../data/backend"
+import { ModulProps } from "../types/modul"
 
 
 
 export const Lane = (props: LaneProps) => {
-    const [items, setItems] = useState([])
+
+    const { data, fetchData, updateData} = useBackendData();
+
     const location = useLocation()
-
     const currentPath = location.pathname
-
-
     
     useEffect(() => {
-        fetch(`http://localhost:5000/${currentPath}`)
-          .then((res) => {
-            if (!res.ok) {
-              throw new Error(`Network response was not ok: ${res.status}`);
-            }
-            return res.json();
-          })
-          .then((resJson) => {
-            setItems(resJson);
-        
-          })
-          .catch((error) => {
-            console.error('Fehler beim Fetchen der Daten:', error);
-          });
-      }, []);
+      fetchData(currentPath)
+    }, [data]);
 
-
+     
     const[{canDrop, isOver}, drop] = useDrop({
         accept: 'modul',
-        drop: (modul: ReactNode) => addItemToLane(modul),
+        drop: (dragItem: ModulProps) => addItemToLane(dragItem, dragItem.modulnummer, ""),
         collect: (monitor) => ({
             isOver: monitor.isOver(),
             canDrop: monitor.canDrop(),
         }),
     });
 
-   
-    const addItemToLane = (modul: ReactNode) => {
-        
-        console.log(modul)        
+  
+    const addItemToLane = (modul: ModulProps,modulnummer: string, newValue: string) => {
+        //updateData(currentPath, modulnummer, newValue)
+        console.log(modul)
     }
-        
-    
+
  
     return (
-        <div ref ={drop} style={{border: '1px solid black', width: `300px`, height: `100%`}}>
-            <h2>{props.semester}</h2>
+        <div  ref ={drop} style={{border: '1px solid black', width: `300px`, height: `100%`}}>
+            <h2>{`${props.semester}. Semester`}</h2>
             
             <div  style={{display: "flex", flexDirection: 'column'}}>
                 {
-                    items
+                    data
                     .filter(item => props.semester === item["Lane"])
-                    .map(item => (<ModulCard key={item["Modulnummer"]} modulnummer={item["Modulnummer"]} modul={item["Modul"]} />))
+                    .map(item => (<ModulCard key={item["Modulnummer"]} modulnummer={item["Modulnummer"]} modul={item["Modul"]} lane={item["Lane"]}/>))
                 }
             </div>
                 
@@ -73,6 +57,3 @@ export const Lane = (props: LaneProps) => {
    
 
 
-//children={items.map((item) => <ModulCard key={item["Modulnummer"]} modulnummer={item["Modulnummer"]} modul={item["Modul"]}
-
-//{items.map((item => <ModulCard key={item["Modulnummer"]} modulnummer={item["Modulnummer"]} modul={item["Modul"]}/>))}

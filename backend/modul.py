@@ -48,16 +48,16 @@ class JsonHandler:
                 if i['Modulnummer'].lower() == modulnummer.lower():
                     return i 
                 
-    def modifyModul(course_name, modulnummer, key_value, change):
+    def modifyModul(course_name, modulnummer, change):
         
         course = JsonHandler.getCourse(course_name)
 
         for i in course:
             if i['Modulnummer'].lower() == modulnummer.lower():
-                i[key_value] = change
+                i['Lane'] = change
                 JsonHandler.writeJson(course_name, course)
                 
-                return "Modification successful!"
+                
    
 
     def addCourse(course, modulnummer, modul, fakultaet, ects, doz, mchef, pruf, prufvor, sprache, semester, zzc, link, lane):
@@ -108,4 +108,3 @@ class JsonHandler:
     
         JsonHandler.writeJson(course, data)
             
-
