@@ -32,7 +32,7 @@ export const ModulCard = (props: ModulProps) => {
 
     const [{ isDragging}, drag] = useDrag(() => ({
         type: 'modul',
-        item: {id: props.modulnummer, lane: props.lane},
+        item: {id: props.modulnummer},
         collect: (monitor) => ({
             isDragging: !!monitor.isDragging()
         })

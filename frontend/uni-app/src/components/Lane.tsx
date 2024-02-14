@@ -4,7 +4,6 @@ import { useDrop } from "react-dnd"
 import { ModulCard } from "./ModulCard"
 import { useLocation } from "react-router-dom"
 import { useBackendData } from "../data/backend"
-import { ModulProps } from "../types/modul"
 
 
 
@@ -22,18 +21,12 @@ export const Lane = (props: LaneProps) => {
      
     const[{canDrop, isOver}, drop] = useDrop({
         accept: 'modul',
-        drop: (dragItem: ModulProps) => addItemToLane(dragItem, dragItem.modulnummer, ""),
+        drop: (dragItem: {id : string}) => updateData(currentPath, dragItem.id, props.semester) ,
         collect: (monitor) => ({
             isOver: monitor.isOver(),
             canDrop: monitor.canDrop(),
         }),
     });
-
-  
-    const addItemToLane = (modul: ModulProps,modulnummer: string, newValue: string) => {
-        //updateData(currentPath, modulnummer, newValue)
-        console.log(modul)
-    }
 
  
     return (
@@ -42,7 +35,7 @@ export const Lane = (props: LaneProps) => {
             
             <div  style={{display: "flex", flexDirection: 'column'}}>
                 {
-                    data
+                    data && Array.isArray(data) && data
                     .filter(item => props.semester === item["Lane"])
                     .map(item => (<ModulCard key={item["Modulnummer"]} modulnummer={item["Modulnummer"]} modul={item["Modul"]} lane={item["Lane"]}/>))
                 }

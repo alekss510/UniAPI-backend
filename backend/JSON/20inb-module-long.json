@@ -113,36 +113,6 @@
     "Lane": "4"
   },
   {
-    "Modulnummer": "C114",
-    "Modul": "Modellierung",
-    "Fakultät": "FIM-INF: Informatikstudiengänge - Fakultät Informatik und Medien",
-    "ECTS-Leistungspunkte": 8,
-    "Dozierende": [
-      "Prof. Dr. rer. nat. Sibylle Schwarz"
-    ],
-    "Modulverantwortliche": [
-      "Prof. Dr. rer. nat. Sibylle Schwarz"
-    ],
-    "Prüfungsleistung(en)": [
-      "Prüfung Klausurarbeit"
-    ],
-    "Prüfungsvorleistung(en)": [
-      "Prüfungsvorleistung Beleg",
-      "Prüfungsvorleistung Präsentation"
-    ],
-    "Sprache(n)": [
-      "Deutsch"
-    ],
-    "Semester": "Wintersemester",
-    "Zuordnung zum Curriculum": [
-      "20INB.2 – Informatik | Bachelor 2020",
-      "20MIB.2 – Medieninformatik | Bachelor 2020",
-      "20MIB-BI.2 – Medieninformatik Studienrichtung Bibliotheksinformatik | Bachelor 2020"
-    ],
-    "Modulux-Link": "https://modulux.htwk-leipzig.de/modulux/modul/6218",
-    "Lane": "1"
-  },
-  {
     "Modulnummer": "C121",
     "Modul": "Computergrafik",
     "Fakultät": "FIM-INF: Informatikstudiengänge - Fakultät Informatik und Medien",

@@ -27,10 +27,10 @@ export function useBackendData() {
     };
 
 
-    const deleteData = async (endpoint, modul) => {
+    const deleteData = async (endpoint, modulnummer) => {
 
         try {
-            await axios.delete(`http://localhost:5000/${endpoint}/${modul}`)
+            await axios.delete(`http://localhost:5000/${endpoint}?modulnummer=${modulnummer}`)
             setData(fetchData(endpoint))
         }catch (error) {
             console.log(error)
