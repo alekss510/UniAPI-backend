@@ -95,24 +95,6 @@ def course(course):
         
     return course_object
     
-@app.route('/<string:course>/<string:modulnummer>', methods=['DELETE', 'PUT'])
-def modul(course, modulnummer):
-    course = request.path[1:6]
-    
-    if request.method == "DELETE":
-
-        JsonHandler.deleteModul(course, modulnummer)
-
-    if request.method == "PUT":
-
-        new_value = request.args.get('newValue')
-        
-        JsonHandler.modifyModul(course, modulnummer, new_value)
-
-    modul_object = JsonHandler.getModul(course, modulnummer)
-    modul_object = json.dumps(modul_object, ensure_ascii= False)
-    
-    return modul_object
 
 
 if __name__ == '__main__':
